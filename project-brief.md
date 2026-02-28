@@ -1,9 +1,8 @@
 # Project Brief
 
-**Student:** [Your Name]  
-**Handle:** @[your-github-username]  
-**Course:** Web Design 2025 · Fall  
-**Date:** [Fill in date - Week 2]
+**Student:** [Antonio Dominguez Millan]  
+**Handle:** @[ToniDMGZ]  
+**Course:** Web Design 2026 · Fall  
 
 ---
 
@@ -11,15 +10,15 @@
 
 ### What are you building?
 
-<!-- Describe your project in 2-3 sentences -->
+El objetivo es mostrar mis intenciones conceptuales, técnicas y estéticas a traves de un porfolio web con una coesion entre el diseño de este y los proyectos que contenga.
 
 ### Who is it for?
 
-<!-- Define your target audience -->
+Gente entre 14 y 50 años aproximadamente.
 
 ### Why does it matter?
 
-<!-- Explain the purpose and value of your project -->
+Dar una imagen de ilustrador profesional.
 
 ---
 
@@ -83,15 +82,15 @@
 
 ### Visual Style
 
-<!-- Describe your aesthetic approach -->
+"Minimalismo" agresivo.
 
 ### Color Palette
 
-<!-- List your main colors -->
+Blanco, negro, rojo y turquesa en un detalle en concreto. 
 
 ### Typography
 
-<!-- What fonts/typeface approach will you use? -->
+Inter y Gravitas One
 
 ### Design Decisions (from Pattern Analysis Feb 2026)
 
